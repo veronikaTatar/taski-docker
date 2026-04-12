@@ -11,7 +11,7 @@ SECRET_KEY = (
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '123.123.123.123', '158.160.228.96']
+ALLOWED_HOSTS = ['localhost', '123.123.123.123', '158.160.228.96', 'taski-docker.hopto.org']
 
 
 # Application definition
